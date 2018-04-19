@@ -1,6 +1,6 @@
-logs
 target
-/.idea
-/.idea_modules
-/.project
-/RUNNING_PID
+boot/
+lib_managed/
+src_managed/
+project/plugins/project/
+.idea
