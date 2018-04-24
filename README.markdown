@@ -25,7 +25,6 @@ A [Giter8][g8] template for generating swagger ui with akka http.
 Template license
 ----------------
 Written in 2018 by Knoldus Inc 
-[other author/contributor lines as appropriate]
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
